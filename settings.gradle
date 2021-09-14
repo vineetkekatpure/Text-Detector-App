@@ -1,0 +1,2 @@
+rootProject.name = "TextDetectorApp"
+include ':app'
